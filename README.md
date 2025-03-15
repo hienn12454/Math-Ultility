@@ -10,7 +10,7 @@
 *...
 
 ## Screen-shots
-![JUnit with TDD DDT](https://github.com/namnm309/TestCase1/blob/main/img/Demo.png)
+![JUnit with TDD DDT](https://github.com/hienn12454/Math-Ultility/blob/main/img/Screenshot%202025-03-15%20144310.png)
 
 ### Connect me via hien12454@gmail.com
 #### &#169; 2025 Trung.Hien
